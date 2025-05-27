@@ -123,7 +123,7 @@
         "attribute": "0000_MeasuredValue"
       },
       "bind": true,
-	  "report": {
+      "report": {
         "min": 30,
         "max": 900,
         "change": 1

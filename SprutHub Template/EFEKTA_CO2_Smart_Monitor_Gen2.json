@@ -217,7 +217,7 @@
         {
           "type": "CurrentAmbientLightLevel",
           "link": {
-            "endpoint": 2,
+            "endpoint": 1,
             "cluster": "0400_IlluminanceMeasurement",
             "attribute": "0000_MeasuredValue"
           }
